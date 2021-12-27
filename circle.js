@@ -1,6 +1,6 @@
 import { Shape } from './shape.js';
 // const shape=ner Shape();
-export class ClassName { Circle };
+// export class ClassName { Circle };
 export class Circle extends Shape {
     constructor() {
         super();

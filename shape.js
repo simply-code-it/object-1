@@ -1,4 +1,4 @@
-export class ClassName { Shape };
+// export class ClassName { Shape };
 export class Shape {
     constructor() {
         this.color = "red";
